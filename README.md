@@ -15,5 +15,4 @@ A machine learning project to classify whether a given input is a rock or a mine
 
 
 ## Results
-The trained model achieves X% accuracy (replace with actual value) on the test dataset.
-Detailed performance metrics and visualizations are provided in the notebook.
+The trained model achieves 76.19% accuracy on the test dataset.
