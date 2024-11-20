@@ -7,11 +7,11 @@ A machine learning project to classify whether a given input is a rock or a mine
 <li>Performance evaluation with metrics like accuracy, precision, and recall.</li>
 
 ## Technologies Used
--Python
--Jupyter Notebook
--Libraries:
-  -NumPy: For numerical computations.
-  -Pandas: For data manipulation and analysis.
+- Python
+- Jupyter Notebook
+- Libraries:
+  - NumPy: For numerical computations.
+  - Pandas: For data manipulation and analysis.
 
 
 ## Results
